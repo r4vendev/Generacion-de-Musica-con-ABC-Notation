@@ -1,6 +1,6 @@
 # Generación de Música en Notación ABC con LSTM
 
-Proyecto final de la maestría — generación de música en notación ABC carácter por carácter usando una red neuronal recurrente **LSTM**, con conversión final a audio real (WAV).
+Proyecto final — generación de música en notación ABC carácter por carácter usando una red neuronal recurrente **LSTM**, con conversión final a audio real (WAV).
 
 **Autor:** Kevin Cárdenas
 
